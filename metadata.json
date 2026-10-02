@@ -1,0 +1,6 @@
+{
+  "name": "제주소금도매상사 통합 관리 시스템",
+  "description": "제주소금도매상사 판매내역, 도매단가, 거래처별 판매기록 및 수입·지출 통합 회계 관리 시스템. 구글 앱스 스크립트(Google Apps Script) 웹앱 연동 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
